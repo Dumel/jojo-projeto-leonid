@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "sf_fedora";
+    src: local(sf_fedora)  url(../CSS/font/sf-fedora.shadow.ttf);
+}
+
+.logo{
+    font-size: 1.5rem;
+    gap: 15px;
+    position: absolute;
+    width: 643px;
+    height: 80px;
+    left: 40px;
+    font-size: 50px;
+    top: 60px;
+    font-style: "sf_fedora";
+    font-family: 'Irish Grover', cursive;
+}
+
+
+
+
