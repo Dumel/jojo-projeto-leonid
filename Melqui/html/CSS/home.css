@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .home::before{
+    content: "";
+    position: absolute;
+    width: 1550px;
+    height: 1440px;
+    right: 1px;
+    background-color: black;
+    background-image: url(../img/geral.png);
+    top: 130px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

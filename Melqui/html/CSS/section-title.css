@@ -1,0 +1,10 @@
+.section-title{
+    position: relative;
+    font-family: 'Irish Grover', cursive;
+    grid-area: title;
+    font-size: 128px;
+    text-align: center;
+    top: 250px;
+    color: yellow;
+    left:  20%;
+}
