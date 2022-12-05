@@ -1,0 +1,16 @@
+.familia-part4{
+    width: 2000px;
+    height: 1440px;
+    position: relative;
+    top: -215px;
+    background-image: url(../img/fundo\ jojo.jpg);
+    
+}
+
+.sobre-autor{
+    position: relative;
+    right: -40%;
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    
+}

@@ -7,11 +7,11 @@
   .home::before{
     content: "";
     position: absolute;
-    width: 1550px;
+    width: 2000px;
     height: 1440px;
     right: 1px;
     background-color: black;
-    background-image: url(../img/geral.png);
+    background-image: url(../img/jojo\ tent2\ 1\ \(1\).png);
     top: 130px;
     background-repeat: no-repeat;
     background-size: cover;

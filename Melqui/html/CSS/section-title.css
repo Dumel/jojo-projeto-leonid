@@ -1,10 +1,12 @@
 .section-title{
-    position: relative;
-    font-family: 'Irish Grover', cursive;
+    position: absolute;
+    font-family: 'Dancing Script', cursive;
     grid-area: title;
-    font-size: 128px;
-    text-align: center;
-    top: 250px;
-    color: yellow;
+    font-size: 300px;
+    left: 100px;
+    text-align: left;
+    top: 500px;
+    color: white;
     left:  20%;
 }
+
