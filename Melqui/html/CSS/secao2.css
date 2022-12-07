@@ -2,9 +2,7 @@
     width: 2000px;
     height: 1440px;
     position: relative;
-    top: -215px;
-    background-image: url(../img/fundo\ jojo.jpg);
-    
+    top: -304px; 
 }
 
 .sobre-autor{
@@ -12,5 +10,6 @@
     right: -40%;
     color: yellow;
     font-family: 'Dancing Script', cursive;
-    
+    font-size: 150px;
+    top: -1550px;   
 }
