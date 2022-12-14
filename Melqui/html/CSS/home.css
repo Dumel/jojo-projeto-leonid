@@ -1,18 +1,18 @@
 .home{
+  width: 100vw;
+    height: 1080px;
+    background-image: url(../img/jojo\ tent2\ 1\ \(1\).png);
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-
-  .home::before{
-    content: "";
-    position: absolute;
-    width: 2000px;
-    height: 1440px;
-    right: 1px;
-    background-color: black;
-    background-image: url(../img/jojo\ tent2\ 1\ \(1\).png);
-    top: 130px;
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+ 
+  h2.section-title{
+    font-family: 'Dancing Script', cursive;
+    font-size: 10rem;
+    color: white;
+    
+}

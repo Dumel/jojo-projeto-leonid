@@ -1,9 +1,8 @@
 .menu{
-    position: absolute;
+    
     display: flex; 
     gap: 72px;
-    top: 45px;
-    right: 10px;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
+    padding-right: 100px;
 }

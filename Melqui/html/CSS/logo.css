@@ -4,14 +4,12 @@
 }
 
 .logo{
-    font-size: 10rem;
-    position: absolute;
-    width: 643px;
+    font-size: 4rem;
+    width: 600px;
     height: 80px;
-    left: 10px;
-    font-size: 80px;
-    top: 10px;
-    font-family: 'Dancing Script', cursive;
+    padding-left: 100px;
+
+    
 }
 
 
